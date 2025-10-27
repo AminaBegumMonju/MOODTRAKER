@@ -1,4 +1,4 @@
- # Push core skeleton (PAT) - create branch `core-skeleton` with project files using REPO_PUSH_TOKEN
+# Push core skeleton (PAT) - create branch `core-skeleton` with project files using REPO_PUSH_TOKEN
 name: Push core skeleton (PAT)
 
 on:
